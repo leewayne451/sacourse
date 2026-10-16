@@ -1,0 +1,6 @@
+Put the CERT data here (git-ignored), e.g.
+
+    datasets/r4.2/            logon.csv device.csv http.csv email.csv file.csv LDAP/ ...
+    datasets/answers/         insiders.csv  r4.2-1/  r4.2-2/  r4.2-3/ ...
+
+`python cli.py sample-data` writes a small synthetic copy in the same format to datasets/sample/.

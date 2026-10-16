@@ -1,0 +1,8 @@
+duckdb>=1.1
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+pydantic>=2.5
+pytest>=8.0
+# demo UI (optional)
+streamlit>=1.46
